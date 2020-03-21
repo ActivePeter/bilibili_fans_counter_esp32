@@ -10,7 +10,7 @@ platform io（vscode插件）
 
 # TTGO T-Display
 
-![1584209506130](C:\Users\Administrator.VZMRW9ETL45BX39\AppData\Roaming\Typora\typora-user-images\1584209506130.png)
+![1584209506130.png](https://i.loli.net/2020/03/22/LlYT9HM3xtGwPgs.png)
 
 https://api.bilibili.com/x/relation/stat?vmid=268164490
 
